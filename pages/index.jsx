@@ -27,7 +27,11 @@ const Index = () => {
             <CssBaseline />
             <Header />
             <Container maxWidth="lg" className={classes.container}>
-
+            <Box my={4} display="flex" justifyContent="center">
+             <Typography variant="h4" component="h1" gutterBottom>
+                 Últimas publicações
+            </Typography>   
+            </Box>
 
             </Container>
         </React.Fragment>
