@@ -32,7 +32,9 @@ const Index = () => {
                  Últimas publicações
             </Typography>   
             </Box>
-
+            <Grid container spacing={4}>
+                
+            </Grid>
             </Container>
         </React.Fragment>
     )
