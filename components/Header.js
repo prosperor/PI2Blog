@@ -17,16 +17,17 @@ const Header = () => (
     <div className={styles.op}>
 
 
-    <PopUp/>
+    
 
     
     <Link href="/">
       <a style={linkStyle}>Home</a>
     </Link>
     
-    <Link href="/about">
-      <a style={linkStyle}>Projetos pessoais</a>
-    </Link>
+
+    <PopUp/>
+    
+    
     
     <Link href="/about">
       <a style={linkStyle}>Tech Stack</a>
