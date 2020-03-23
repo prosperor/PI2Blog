@@ -5,7 +5,8 @@ import PopUp from './PopUp';
 
 
 const linkStyle = {
-  marginRight: 30
+  marginRight: 15,
+  marginLeft: 15
   
 };
 
@@ -25,11 +26,11 @@ const Header = () => (
     </Link>
     
 
-    <PopUp/>
+    <PopUp style={linkStyle}></PopUp>
     
     
     
-    <Link href="/about">
+    <Link href="/">
       <a style={linkStyle}>Tech Stack</a>
     </Link>
     <Link href="/about">
