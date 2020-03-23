@@ -14,6 +14,7 @@ import theme from '../components/theme';
 
 //Essas barras "/" funcionam como um chave de fechamento de cada chave
 //Theme Provider obtem o tema personalizado para a interface do usuario do material
+//Pagina principal
 
 function MyApp({
     Component,

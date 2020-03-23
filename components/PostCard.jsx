@@ -5,6 +5,8 @@ import { Typography, Grid, Card, CardContent } from '@material-ui/core';
 import PropTypes from 'prop-types';
 import Link from './Link';
 
+//Este é um componente que espera um post com um título, data de publicação, caminho ou href e resumo.
+
 const useStyles = makeStyles(
     {
         card: {
@@ -18,7 +20,7 @@ const useStyles = makeStyles(
 
 const PostCard = (
     {
-        post 
+        post
     }
 ) => {
     const classes = useStyles();
@@ -30,7 +32,7 @@ const PostCard = (
                         <CardContent>
 
                             <Typography component="h2"
-                            variant="h5">
+                                variant="h5">
                                 {post.title}
                             </Typography>
 
@@ -54,7 +56,7 @@ const PostCard = (
     )
 }
 
-PostCard.propTypes={
+PostCard.propTypes = {
     post: PropTypes.object
 }
 

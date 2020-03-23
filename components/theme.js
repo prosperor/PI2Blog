@@ -1,7 +1,7 @@
 import { createMuiTheme } from '@material-ui/core/styles';
 import { red } from '@material-ui/core/colors';
 
-//Criando o Tema
+//Aqui fica o tema
 
 const theme = createMuiTheme(
     {
