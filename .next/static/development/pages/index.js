@@ -78,7 +78,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _PopUp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./PopUp */ "./components/PopUp.js");
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\components\\Header.js";
+    _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\components\\Header.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -114,14 +114,7 @@ var Header = function Header() {
       lineNumber: 17,
       columnNumber: 5
     }
-  }, __jsx(_PopUp__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 5
-    }
-  }), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
     __self: _this,
     __source: {
@@ -137,28 +130,19 @@ var Header = function Header() {
       lineNumber: 24,
       columnNumber: 7
     }
-  }, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/about",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27,
-      columnNumber: 5
-    }
-  }, __jsx("a", {
-    style: linkStyle,
+  }, "Home")), __jsx(_PopUp__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28,
-      columnNumber: 7
+      columnNumber: 5
     }
-  }, "Projetos pessoais")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/about",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31,
+      lineNumber: 32,
       columnNumber: 5
     }
   }, __jsx("a", {
@@ -166,7 +150,7 @@ var Header = function Header() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 33,
       columnNumber: 7
     }
   }, "Tech Stack")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -174,7 +158,7 @@ var Header = function Header() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34,
+      lineNumber: 35,
       columnNumber: 5
     }
   }, __jsx("a", {
@@ -182,7 +166,7 @@ var Header = function Header() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35,
+      lineNumber: 36,
       columnNumber: 7
     }
   }, "Quem Somos"))));
@@ -207,7 +191,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Comps.module.css */ "./components/Comps.module.css");
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\components\\PopUp.js";
+    _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\components\\PopUp.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -223,7 +207,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
         lineNumber: 6,
         columnNumber: 19
       }
-    }, " Trigger"),
+    }, "Projetos Pessoais"),
     position: "right center",
     __self: _this,
     __source: {
@@ -239,7 +223,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 7,
       columnNumber: 5
     }
-  }, "Popup content here !!"));
+  }, "Conteudo a ser colocado"));
 });
 
 /***/ }),
@@ -909,10 +893,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CntNext%5Cpages%5Cindex.js!./":
-/*!****************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CntNext%5Cpages%5Cindex.js ***!
-  \****************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CDefCode%5CPI2Blog%5Cpages%5Cindex.js!./":
+/*!***************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CDefCode%5CPI2Blog%5Cpages%5Cindex.js ***!
+  \***************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5699,7 +5683,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
 /* harmony import */ var _components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Comps.module.css */ "./components/Comps.module.css");
 /* harmony import */ var _components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5732,14 +5716,14 @@ function index() {
 
 /***/ }),
 
-/***/ 2:
-/*!********************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CntNext%5Cpages%5Cindex.js ***!
-  \********************************************************************************************************************************************************/
+/***/ 1:
+/*!*******************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CDefCode%5CPI2Blog%5Cpages%5Cindex.js ***!
+  \*******************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CntNext%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CntNext%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CDefCode%5CPI2Blog%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CT-Gamer%5CDocuments%5CUnifil%5C3Periodo%5CPI%5CDefCode%5CPI2Blog%5Cpages%5Cindex.js!./");
 
 
 /***/ }),
@@ -5755,5 +5739,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

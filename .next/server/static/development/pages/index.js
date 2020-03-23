@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -128,7 +128,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Comps.module.css */ "./components/Comps.module.css");
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _PopUp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./PopUp */ "./components/PopUp.js");
-var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -162,14 +162,7 @@ const Header = () => __jsx("div", {
     lineNumber: 17,
     columnNumber: 5
   }
-}, __jsx(_PopUp__WEBPACK_IMPORTED_MODULE_3__["default"], {
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 20,
-    columnNumber: 5
-  }
-}), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/",
   __self: undefined,
   __source: {
@@ -185,28 +178,19 @@ const Header = () => __jsx("div", {
     lineNumber: 24,
     columnNumber: 7
   }
-}, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/about",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 27,
-    columnNumber: 5
-  }
-}, __jsx("a", {
-  style: linkStyle,
+}, "Home")), __jsx(_PopUp__WEBPACK_IMPORTED_MODULE_3__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
     lineNumber: 28,
-    columnNumber: 7
+    columnNumber: 5
   }
-}, "Projetos pessoais")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+}), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
   href: "/about",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 31,
+    lineNumber: 32,
     columnNumber: 5
   }
 }, __jsx("a", {
@@ -214,7 +198,7 @@ const Header = () => __jsx("div", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 32,
+    lineNumber: 33,
     columnNumber: 7
   }
 }, "Tech Stack")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -222,7 +206,7 @@ const Header = () => __jsx("div", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 34,
+    lineNumber: 35,
     columnNumber: 5
   }
 }, __jsx("a", {
@@ -230,7 +214,7 @@ const Header = () => __jsx("div", {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 35,
+    lineNumber: 36,
     columnNumber: 7
   }
 }, "Quem Somos"))));
@@ -254,7 +238,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reactjs_popup__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(reactjs_popup__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Comps.module.css */ "./components/Comps.module.css");
 /* harmony import */ var _Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\components\\PopUp.js";
+var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\components\\PopUp.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -268,7 +252,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
       lineNumber: 6,
       columnNumber: 19
     }
-  }, " Trigger"),
+  }, "Projetos Pessoais"),
   position: "right center",
   __self: undefined,
   __source: {
@@ -284,7 +268,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
     lineNumber: 7,
     columnNumber: 5
   }
-}, "Popup content here !!")));
+}, "Conteudo a ser colocado")));
 
 /***/ }),
 
@@ -1978,7 +1962,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
 /* harmony import */ var _components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Comps.module.css */ "./components/Comps.module.css");
 /* harmony import */ var _components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_Comps_module_css__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2011,14 +1995,14 @@ function index() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\T-Gamer\Documents\Unifil\3Periodo\PI\ntNext\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\T-Gamer\Documents\Unifil\3Periodo\PI\DefCode\PI2Blog\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

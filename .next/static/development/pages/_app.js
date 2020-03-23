@@ -359,7 +359,7 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/
 
 exports = module.exports = __webpack_require__(/*! ./node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js")(true);
 // Module
-exports.push([module.i, "body{\r\n    background-color: rgb(2, 17, 0)\r\n}\r\n\r\na{\r\n    color: rgb(255, 255, 255);\r\n}\r\n\r\nh1{\r\n    color: white;\r\n    font-family: impact;\r\n}\r\np{\r\n    color: white;\r\n    font-family: impact;\r\n}", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;IACI;AACJ;;AAEA;IACI,yBAAyB;AAC7B;;AAEA;IACI,YAAY;IACZ,mBAAmB;AACvB;AACA;IACI,YAAY;IACZ,mBAAmB;AACvB","file":"styles.css","sourcesContent":["body{\r\n    background-color: rgb(2, 17, 0)\r\n}\r\n\r\na{\r\n    color: rgb(255, 255, 255);\r\n}\r\n\r\nh1{\r\n    color: white;\r\n    font-family: impact;\r\n}\r\np{\r\n    color: white;\r\n    font-family: impact;\r\n}"]}]);
+exports.push([module.i, "body{\r\n    background-color: rgb(2, 17, 0)\r\n}\r\n\r\na{\r\n    color: rgb(255, 255, 255);\r\n    text-decoration: none;\r\n}\r\n\r\nh1{\r\n    color: white;\r\n    font-family: impact;\r\n}\r\np{\r\n    color: white;\r\n    font-family: impact;\r\n}", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;IACI;AACJ;;AAEA;IACI,yBAAyB;IACzB,qBAAqB;AACzB;;AAEA;IACI,YAAY;IACZ,mBAAmB;AACvB;AACA;IACI,YAAY;IACZ,mBAAmB;AACvB","file":"styles.css","sourcesContent":["body{\r\n    background-color: rgb(2, 17, 0)\r\n}\r\n\r\na{\r\n    color: rgb(255, 255, 255);\r\n    text-decoration: none;\r\n}\r\n\r\nh1{\r\n    color: white;\r\n    font-family: impact;\r\n}\r\np{\r\n    color: white;\r\n    font-family: impact;\r\n}"]}]);
 
 
 /***/ }),
@@ -3419,7 +3419,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles.css */ "./styles.css");
 /* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -3507,7 +3507,7 @@ if (true) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
-module.exports = __webpack_require__(/*! C:\Users\T-Gamer\Documents\Unifil\3Periodo\PI\ntNext\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! C:\Users\T-Gamer\Documents\Unifil\3Periodo\PI\DefCode\PI2Blog\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ }),

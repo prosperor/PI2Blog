@@ -941,7 +941,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\ntNext\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\T-Gamer\\Documents\\Unifil\\3Periodo\\PI\\DefCode\\PI2Blog\\.next");
       return error;
     }
   };
