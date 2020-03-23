@@ -109,7 +109,7 @@ __webpack_require__.r(__webpack_exports__);
 
  //Criando o Tema
 
-const theme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["creatMuiTheme"])({
+const theme = Object(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_0__["createMuiTheme"])({
   palette: {
     primary: {
       main: '#283E4A'
@@ -148,7 +148,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _components_theme__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/theme */ "./components/theme.js");
+/* harmony import */ var _components_theme__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/theme */ "./components/theme.js");
 var _jsxFileName = "C:\\Users\\Jess\xE9\\Documents\\pi\\PI2Blog\\pages\\_app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -204,7 +204,7 @@ function MyApp({
       columnNumber: 13
     }
   })), __jsx(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_2__["ThemeProvider"], {
-    theme: _components_theme__WEBPACK_IMPORTED_MODULE_6__["default"],
+    theme: _components_theme__WEBPACK_IMPORTED_MODULE_5__["default"],
     __self: this,
     __source: {
       fileName: _jsxFileName,

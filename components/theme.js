@@ -1,9 +1,9 @@
-import { creatMuiTheme } from '@material-ui/core/styles';
+import { createMuiTheme } from '@material-ui/core/styles';
 import { red } from '@material-ui/core/colors';
 
 //Criando o Tema
 
-const theme = creatMuiTheme(
+const theme = createMuiTheme(
     {
         palette: {
             primary: {

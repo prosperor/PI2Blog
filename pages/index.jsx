@@ -10,7 +10,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Header from '../components/Header';
 import PostCard from '../components/PostCard';
 import blogPost from '../data/blog-posts';
-import Footer from '../components/Footer';
+import Footer from 'components/Footer';
 
 const useStyles = makeStyles(
     {
@@ -27,15 +27,23 @@ const Index = () => {
             <CssBaseline />
             <Header />
             <Container maxWidth="lg" className={classes.container}>
-            <Box my={4} display="flex" justifyContent="center">
-             <Typography variant="h4" component="h1" gutterBottom>
-                 Últimas publicações
-            </Typography>   
-            </Box>
-            <Grid container spacing={4}>
-                
-            </Grid>
+                <Box my={4} display="flex" justifyContent="center">
+                    <Typography variant="h4" component="h1" gutterBottom>
+                        Últimas publicações
+            </Typography>
+                </Box>
+                <Grid container spacing={4}>
+                    {
+                        blogPost.map(post => (
+                            <PostCard key={post.title} post={post} />
+                        )
+                        )
+                    }
+                </Grid>
             </Container>
+            <Footer title="Portifólio" description="Sejam bem vindos ao nosso Portifólio" />
         </React.Fragment>
-    )
-}
+    );
+};
+
+export default Index;
