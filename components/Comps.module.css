@@ -1,0 +1,43 @@
+.header{
+    padding:0px;
+    margin:0px;
+    background-color:rgb(0, 7, 0);
+    list-style:none;
+    
+}
+.op{
+    font-size: 30px;
+    text-align: end;
+    font-family: impact;
+}
+.tittle{
+    font-size: 60px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-family: impact;
+    margin-left: 20px;
+    margin-top: -0.5px;
+}
+
+
+
+
+.base{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    color: white;
+}
+
+.btt{
+    font-size: 30px;
+    font-family: impact;
+    background-color: rgb(0, 7, 0);
+    color: white;
+    border-color: rgb(0, 7, 0);
+}
+
+.popdiv{
+    background-color: rgb(2, 17, 0);
+    border-color: rgb(0, 7, 0);
+}
