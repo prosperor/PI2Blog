@@ -27,5 +27,9 @@
     "next": "^9.3.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-plugin-macros": "^2.8.0",
+    "babel-plugin-preval": "^5.0.0"
   }
 }
