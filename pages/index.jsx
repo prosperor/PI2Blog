@@ -12,6 +12,8 @@ import PostCard from '../components/PostCard';
 import blogPost from '../data/blog-posts';
 import Footer from 'components/Footer';
 
+//Ainda não sei muito bem oq isso faz
+
 const useStyles = makeStyles(
     {
         container: {

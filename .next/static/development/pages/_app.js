@@ -14588,7 +14588,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
  //Essas barras "/" funcionam como um chave de fechamento de cada chave
 //Theme Provider obtem o tema personalizado para a interface do usuario do material
-//Pagina principal
+//JavaScript da pagina principal
 
 function MyApp(_ref) {
   var Component = _ref.Component,
