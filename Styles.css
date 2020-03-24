@@ -11,8 +11,13 @@ h1{
     color: white;
     font-family: impact;
 }
+
 p{
     color: white;
     font-family: impact;
     font-size: 115%;
+}
+imagens{
+    width: auto;
+    height: auto;
 }

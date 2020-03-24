@@ -1,19 +1,21 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
 
+const stack = require('../images/techStack.png');
 
 export default function techStack() {
 
     return (
         <div className={styles.base}>
+            
             <Header/>
 
             <div className={styles.arecont}>
                 <h1>
                     Tech Stack:
                 </h1>
+                
 
-                <img src="../imgs/techStack.png"></img>
                 <p>
                        Este Blog/Portfólio foi feito usando o framework NextJs, com as linguagens Javascript, HTML, css e React.
                     Com todas as linguagens escritas em arquivos no formato javascript, com exceção do css, que foi escrito em
@@ -22,4 +24,4 @@ export default function techStack() {
             </div>
         </div>
     )
-}
+};
