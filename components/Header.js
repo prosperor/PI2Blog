@@ -18,7 +18,7 @@ const Header = () => (
     <div className={styles.op}>
     
     <Link href="/">
-      <a style={linkStyle} >HOME</a>
+      <a style={linkStyle}>HOME</a>
     </Link>
     
     <Link href="/">

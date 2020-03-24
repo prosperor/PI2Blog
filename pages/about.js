@@ -13,7 +13,7 @@ export default function About (){
             </Header>
             <h1>FABIO</h1>
             <p>NOME COMPLETO:</p>
-
+            <p></p>
         </div>
     );
 }
