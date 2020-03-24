@@ -11,10 +11,10 @@ export default function About (){
                     <a title="About Page">About Page</a>
                 </Link>
             </Header>
-            <h1>Who we are?</h1>
-            <p>We are students</p>
+            <h1>FABIO</h1>
+            <p>NOME COMPLETO:</p>
+
         </div>
-        
     );
 }
 

@@ -1,9 +1,5 @@
 import Header from '../components/Header';
-import styles from '../components/Comps.module.css'
-
-
-
-;
+import styles from '../components/Comps.module.css';
 
 export default function index() {
     
@@ -13,8 +9,10 @@ export default function index() {
             <Header/>
 
             <h1 >
-                Test n1 ttt
+                Ultimas Publicações
             </h1>
+
+
             
         </div>
     );

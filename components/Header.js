@@ -13,28 +13,25 @@ const linkStyle = {
 
 const Header = () => (
   <div className={styles.header}>
-    <h1 className={styles.tittle}>>Exemplo &#123;</h1>
+    <h1 className={styles.tittle}>PORTIFÓLIO</h1>
     <div className={styles.op}>
-
-
-    
-
     
     <Link href="/">
-      <a style={linkStyle}>Home</a>
+      <a style={linkStyle} >HOME</a>
     </Link>
     
+    <Link href="/">
+      <a style={linkStyle}>PROJETOS PESSOAIS</a>
+    </Link>
+    
+    <Link href="/about">
+      <a style={linkStyle}>TECH STACK</a>
+    </Link>
 
-    <PopUp/>
-    
-    
-    
     <Link href="/about">
-      <a style={linkStyle}>Tech Stack</a>
+      <a style={linkStyle}>QUEM SOMOS</a>
     </Link>
-    <Link href="/about">
-      <a style={linkStyle}>Quem Somos</a>
-    </Link>
+
     </div>
   </div>
 );
