@@ -1,5 +1,6 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
+import Con from '../components/ContentArea';
 
 export default function index() {
     
@@ -8,9 +9,18 @@ export default function index() {
             
             <Header/>
 
-            <h1 >
-                Ultimas Publicações
-            </h1>
+
+            <div className={styles.arecont}>
+
+                <h1 >
+                    Ultimas Publicações
+                </h1>
+            </div>
+            
+
+            
+
+            
 
 
             
