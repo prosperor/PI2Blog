@@ -25,7 +25,7 @@ const Header = () => (
       <a style={linkStyle}>PROJETOS PESSOAIS</a>
     </Link>
     
-    <Link href="/about">
+    <Link href="/techStack">
       <a style={linkStyle}>TECH STACK</a>
     </Link>
 
