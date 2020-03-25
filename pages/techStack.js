@@ -13,7 +13,10 @@ export default function techStack() {
                 <h1>
                     Tech Stack:
                 </h1>
+                <div className={styles.imgCenter}>
+
                 <img src={require('../images/techStack.png')} />
+                </div>
 
                 <p>
                        Este Blog/Portfólio foi feito usando o framework NextJs, com as linguagens Javascript, HTML, css e React.
