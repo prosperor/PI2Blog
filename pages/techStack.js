@@ -1,6 +1,7 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
 
+
 export default function techStack() {
 
     return (
@@ -12,7 +13,7 @@ export default function techStack() {
                 <h1>
                     Tech Stack:
                 </h1>
-                
+                <img src={require('../images/techStack.png')} />
 
                 <p>
                        Este Blog/Portfólio foi feito usando o framework NextJs, com as linguagens Javascript, HTML, css e React.
