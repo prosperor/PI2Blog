@@ -48,3 +48,12 @@
     margin-right: 250px; 
 }
 
+.imgCenter{
+    text-align: center;
+}
+
+.box{
+    margin-top: 50px;
+    border: 5px double;
+    border-radius: 10px;
+}
