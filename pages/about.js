@@ -6,7 +6,7 @@ import styles from '../components/Comps.module.css';
 
 export default function About (){
     return(
-        <div>
+        <div className={styles.base}>
             
             <Header/>
 
