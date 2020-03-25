@@ -1,17 +1,16 @@
 import Header from '../components/Header';
 import Link from 'next/link';
+import styles from '../components/Comps.module.css';
 
 
 
 export default function About (){
     return(
         <div>
-            <Header>
-                <Link href="/about">
-                    <a title="About Page">About Page</a>
-                </Link>
-            </Header>
+            
+            <Header/>
 
+        <div className={styles.arecont}>
             <div>
             <p><font size="7" color="#708090" face=""> GABRIEL PRÓSPERO REALIZADOR SILVA </font></p>
             
@@ -61,6 +60,9 @@ export default function About (){
             </div>
 
         </div>
+
+    </div>
+
     );
 }
 
