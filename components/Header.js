@@ -1,7 +1,5 @@
 import Link from 'next/link';
 import styles from './Comps.module.css'
-import PopUp from './PopUp';
-
 
 
 const linkStyle = {
