@@ -1,6 +1,6 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
-import Con from '../components/ContentArea';
+
 
 export default function index() {
     
