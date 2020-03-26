@@ -5,6 +5,8 @@
     background-color:rgb(0, 7, 0);
     list-style:none;
     height: 100%;
+    border: 10px double;
+    border-radius: 35px;
 }
 .op{
     font-size: 30px;
