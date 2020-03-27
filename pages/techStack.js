@@ -10,6 +10,11 @@ export default function techStack() {
             <Header />
 
             <div className={styles.arecont}>
+
+                <div className={styles.box}>
+
+
+
                 <h1>
                     Tech Stack:
                 </h1>
@@ -41,6 +46,7 @@ export default function techStack() {
                     </Link>
                     
                 </p>
+                </div>
             </div>
         </div>
     )
