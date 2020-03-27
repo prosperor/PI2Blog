@@ -5,19 +5,26 @@ body{
 a{
     color: rgb(255, 255, 255);
     text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1{
     color: white;
     font-family: impact;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 p{
     color: white;
     font-family: impact;
-    font-size: 115%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h2{
     font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
 }
