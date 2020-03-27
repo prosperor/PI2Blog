@@ -3,7 +3,6 @@ import styles from '../components/Comps.module.css';
 import matter from 'gray-matter';
 
 
-
 export default function index() {
     
     return (
@@ -14,6 +13,7 @@ export default function index() {
                 <h1 >
                     Ultimas Publicações
                 </h1>
+                
             </div>
             
         </div>
