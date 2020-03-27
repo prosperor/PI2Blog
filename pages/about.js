@@ -18,7 +18,7 @@ export default function About() {
                         <div className={styles.imgAbout}>
 
 
-                            <img src={require('../images/generic.png')} height="500" width="500" />
+                            <img src={require('../images/generic.png')} height="500" width="500" className={styles.imgbord} />
                         </div>
                     </div>
 
@@ -57,7 +57,7 @@ export default function About() {
                         <div className={styles.imgAbout}>
 
 
-                            <img src={require('../images/generic.png')} height="500" width="500" />
+                            <img src={require('../images/generic.png')} height="500" width="500" className={styles.imgbord} />
                         </div>
                     </div>
 
