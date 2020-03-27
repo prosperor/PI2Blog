@@ -7,6 +7,7 @@
     height: 100%;
     border: 10px double;
     border-radius: 35px;
+    box-shadow: 10px 15px #000000;
 }
 .op{
     font-size: 30px;
@@ -58,6 +59,8 @@
     margin-top: 50px;
     border: 5px double;
     border-radius: 10px;
+    box-shadow: 10px 15px #000000;
+    background-color: #000000;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
