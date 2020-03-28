@@ -6,18 +6,15 @@ import styles from '../components/Comps.module.css';
 export default function About() {
     return (
         <div className={styles.base}>
-
             <Header />
-
-            <div className={styles.arecont}>
+           
                 <div className={styles.box}>
 
-                    <p><font size="7" color="#708090" face=""> GABRIEL PRÓSPERO REALIZADOR SILVA </font></p>
+                    <p><font size="7" color="#708090"> GABRIEL PRÓSPERO REALIZADOR SILVA </font></p>
+                   
                     <div className={styles.grid}>
                         <div className={styles.imgAbout}>
-
-
-                            <img src={require('../images/generic.png')} height="500" width="500" className={styles.imgbord} />
+                            <img src={require('../images/prospero.jpeg')} height="250" width="250" className={styles.imgbord} />
                         </div>
                     </div>
 
@@ -40,11 +37,8 @@ export default function About() {
                     COREL DRAW BÁSICO</h2>
 
                     <h1>OBJETIVOS</h1>
-                    <h2> frase pra encher linguiça </h2>
-
-
+                    <h2> OBTER CONHECIMENTO PARA DESENVOLVER TECNOLOGIAS QUE AJUDEM AS PESSOAS </h2>
                 </div>
-
 
 
 
@@ -56,7 +50,7 @@ export default function About() {
                         <div className={styles.imgAbout}>
 
 
-                            <img src={require('../images/generic.png')} height="500" width="500" className={styles.imgbord} />
+                            <img src={require('../images/generic.png')} height="250" width="250" className={styles.imgbord} />
                         </div>
                     </div>
 
@@ -80,7 +74,6 @@ export default function About() {
                     <h2> frase pra encher linguiça </h2>
                 </div>
 
-            </div>
         </div>
 
 

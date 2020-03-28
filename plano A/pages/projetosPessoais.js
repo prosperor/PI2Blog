@@ -5,13 +5,11 @@ import styles from '../components/Comps.module.css';
 export default function ProjetosPessoais() {
     return (
         <div className={styles.base}>
-
             <Header />
-            <div className={styles.arecont}>
+            
                 <h1>Projetos Pessoais</h1>
                 <div className={styles.box}>
                     <p className={styles.tittlePP}><font size="7" color="#708090" face="">
-
                         TFT Team Generator
                 </font>
                     </p>
@@ -47,7 +45,7 @@ export default function ProjetosPessoais() {
                     </Link>
                     </p>
                 </div>
-            </div>
+            
         </div>
     )
 }

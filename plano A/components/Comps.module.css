@@ -8,10 +8,11 @@
     border: 10px outset;
     border-radius: 35px;
     box-shadow: 10px 15px #000000;
+    text-align: center;
 }
 .op{
     font-size: 30px;
-    text-align: end;
+    text-align: center;
     font-family: impact;
 }
 .tittle{

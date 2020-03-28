@@ -5,7 +5,6 @@ import styles from './Comps.module.css'
 const linkStyle = {
   marginRight: 15,
   marginLeft: 15
-  
 };
 
 
@@ -15,6 +14,7 @@ const Header = () => (
     <h1 className={styles.tittle}>PORTIFÓLIO</h1>
     <div className={styles.op}>
     
+    <div text-align ='center' >
     <Link href="/">
       <a style={linkStyle}>HOME</a>
     </Link>
@@ -30,6 +30,7 @@ const Header = () => (
     <Link href="/about">
       <a style={linkStyle}>QUEM SOMOS</a>
     </Link>
+    </div>
 
     </div>
   </div>
