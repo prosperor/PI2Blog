@@ -37,7 +37,7 @@ export default function About() {
                     COREL DRAW BÁSICO</h2>
 
                     <h1>OBJETIVOS</h1>
-                    <h2> OBTER CONHECIMENTO PARA DESENVOLVER TECNOLOGIAS QUE AJUDEM AS PESSOAS </h2>
+                    <h2> OBTER CONHECIMENTO PARA DESENVOLVER TECNOLOGIAS QUE AJUDEM AS PESSOAS  </h2>
                 </div>
 
 
@@ -50,7 +50,7 @@ export default function About() {
                         <div className={styles.imgAbout}>
 
 
-                            <img src={require('../images/generic.png')} height="250" width="250" className={styles.imgbord} />
+                            <img src={require('../images/Fabio.jpeg')} height="250" width="250" className={styles.imgbord} />
                         </div>
                     </div>
 

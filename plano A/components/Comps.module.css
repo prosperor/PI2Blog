@@ -91,7 +91,7 @@
 
 .grid {
     float: left;
-    width: 35%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    width: 18%; /* three boxes (use 25% for four, and 50% for two, etc) */
     padding: 40px; /* if you want space between the images */
     height: 700px;
 }
