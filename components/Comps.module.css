@@ -94,7 +94,17 @@
     padding: 40px; /* if you want space between the images */
     height: 700px;
 }
+.gridV2{
+    float: left;
+    width: 20%;
+    padding: 40px; 
+    height: 700px;
+}
 
 .imgbord{
     border-radius: 8px;
+}
+
+.tittlePP{
+    font-size: 30px;
 }
