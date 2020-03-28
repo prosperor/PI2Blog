@@ -1,6 +1,9 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
-import Post from '../components/Post';
+
+
+
+
 
 export default function index() {
     
@@ -15,7 +18,6 @@ export default function index() {
                 
             </div>
 
-            <Post/>
             
         </div>
     );
