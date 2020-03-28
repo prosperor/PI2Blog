@@ -1,7 +1,6 @@
 import Header from '../components/Header';
 import styles from '../components/Comps.module.css';
-import matter from 'gray-matter';
-
+import Post from '../components/Post';
 
 export default function index() {
     
@@ -15,6 +14,8 @@ export default function index() {
                 </h1>
                 
             </div>
+
+            <Post>oi</Post>
             
         </div>
     );
