@@ -15,7 +15,7 @@ export default function index() {
                 
             </div>
 
-            <Post>oi</Post>
+            <Post/>
             
         </div>
     );
