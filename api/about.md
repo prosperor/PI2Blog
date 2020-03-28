@@ -1,3 +1,3 @@
-# About
+# Home
 
-Welcome to **GeeKhmer**!
+This is my **awesome** home!
