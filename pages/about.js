@@ -1,5 +1,4 @@
 import Header from '../components/Header';
-import Link from 'next/link';
 import styles from '../components/Comps.module.css';
 
 
