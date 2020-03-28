@@ -2,8 +2,8 @@ import React from 'react'
 import ReactMarkdown from 'react-markdown'
 
 export default class extends React.Component {
-  static async getInitialProps({ req }) {
-    const content = await require(`../api/about.md`)
+  static async getInitialProps() {
+    var content = await require(`../api/about.md`)
     return { content }
   }
 
