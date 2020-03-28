@@ -50,7 +50,7 @@ export default function About() {
                         <div className={styles.imgAbout}>
 
 
-                            <img src={require('../images/Fabio.jpeg')} height="250" width="250" className={styles.imgbord} />
+                            <img src={require('../images/fabio.png')} height="250" width="250" className={styles.imgbord} />
                         </div>
                     </div>
 
