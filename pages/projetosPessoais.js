@@ -23,14 +23,14 @@ export default function ProjetosPessoais() {
 
                     <h1>RESUMO:</h1>
                     <h2><font size="6">
-                        Este codigo foi feito no intuito de tornar o jogo TeamFight Tactics mais interessantes para aqueles
+                          Este codigo foi feito no intuito de tornar o jogo TeamFight Tactics mais interessantes para aqueles
                         afim de testar novas composições de campeões. Como? gerando um conjunto de combinações de origens e classes aleatórias, com ambos podendo
                         ter suas quantidades alteradas.
                   </font></h2>
 
                     <h1>COM O QUE FOI FEITO:</h1>
                     <h2><font size="6">
-                        Todo o código foi escrito em html, javascript e CSS, com uma função princípal na qual, as outras foram baseadas.
+                      Todo o código foi escrito em html, javascript e CSS, com uma função princípal na qual, as outras foram baseadas.
                     </font></h2>
 
                     <h1>DESENVOLVEDOR (ES):</h1>
@@ -43,7 +43,7 @@ export default function ProjetosPessoais() {
                     <p>
 
                     <Link href="https://github.com/KillPHP/tftteamgenerator">
-                        <a target="_blank"><font size="6">https://github.com/KillPHP/tftteamgenerator</font></a>
+                        <a target="_blank"><font size="6">  https://github.com/KillPHP/tftteamgenerator</font></a>
                     </Link>
                     </p>
                 </div>
