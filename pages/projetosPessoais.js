@@ -46,8 +46,6 @@ export default function ProjetosPessoais() {
                         <a target="_blank"><font size="6">https://github.com/KillPHP/tftteamgenerator</font></a>
                     </Link>
                     </p>
-
-
                 </div>
             </div>
         </div>
