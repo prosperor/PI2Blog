@@ -7,7 +7,7 @@ export default function About() {
     return (
         <div className={styles.base}>
             <Header />
-           
+        
                 <div className={styles.box}>
 
                     <p><font size="7" color="#708090"> GABRIEL PRÓSPERO REALIZADOR SILVA </font></p>
