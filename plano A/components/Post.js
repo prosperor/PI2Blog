@@ -3,16 +3,14 @@ import ReactMarkdown from 'react-markdown'
 
 export default class extends React.Component {
   static async getInitialProps() {
-    const content = await require(`../api/about.md`);
-    return { 
-      content 
-    }
+    const content = await require(`../api/esse.md`)
+    return { content }
   }
 
   render() {
     return (
       <div>
-        <ReactMarkdown source={this.props.content}/>
+        <ReactMarkdown source={this.props.content} />
       </div>
     )
   }
