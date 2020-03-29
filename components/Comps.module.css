@@ -17,11 +17,16 @@
 }
 .tittle{
     font-size: 60px;
-    text-align: left;
+    text-align: center;
     color: rgb(255, 255, 255);
     font-family: impact;
     margin-left: 20px;
     margin-top: -0.5px;
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
 }
 
 
@@ -49,7 +54,8 @@
 
 .arecont{
     margin-left: 250px;
-    margin-right: 250px; 
+    margin-right: 250px;
+    text-align: center; 
 }
 
 .imgCenter{
