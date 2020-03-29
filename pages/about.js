@@ -5,8 +5,11 @@ import styles from '../components/Comps.module.css';
 
 export default function About() {
     return (
-        <div className={styles.base}>
+        <div className={styles.base}> 
             <Header />
+
+            <div className={styles.arecont}>
+
         
                 <div className={styles.box}>
 
@@ -73,6 +76,7 @@ export default function About() {
                     <h1>OBJETIVOS</h1>
                     <h2> frase pra encher linguiça </h2>
                 </div>
+            </div>
 
         </div>
 

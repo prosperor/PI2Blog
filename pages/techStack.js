@@ -23,13 +23,13 @@ export default function techStack() {
                     <img src={require('../images/techStack.png')} />
                 </div>
 
-                <p>
+                <h2>
                     Este Blog/Portfólio foi feito usando o framework NextJs, com as linguagens Javascript, HTML, css e ReactJs.
                     Com todas as linguagens escritas em arquivos no formato javascript, com exceção do css, que foi escrito em
                     formato próprio e importado para os arquivos .js
-                </p>
-                <p>
-                    Houve também uso de conteúdos de terceiros, adicionados por "npm install", tais como os presentes a seguir: <p />
+                
+                <br/>
+                    Houve também uso de conteúdos de terceiros, adicionados por "npm install", tais como os presentes a seguir: <br/>
 
                     <Link href="https://react-popup.elazizi.com/getting-started">
                         <a target="_blank">
@@ -37,15 +37,18 @@ export default function techStack() {
                         </a>
                     </Link>
 
-                    <p />
+                    <br/>
 
                     <Link href="https://github.com/twopluszero/next-images/">
                         <a target="_blank">
                             Next-Images
                         </a>
                     </Link>
+                    <br/>
+                    <br/>
+                    No geral, durante a composição, Fábio F. Costa foi responsavel principal pelo design e visual. Gabirem Prospero Realizador Silva foi responsavel principal pelas funcionalidades 
                     
-                </p>
+                </h2>
                 </div>
             </div>
         </div>
