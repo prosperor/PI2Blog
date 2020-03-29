@@ -1,28 +1,33 @@
 {
-  "name": "plano_B",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "nextjs-blog-starter",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Next.js",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": "@kendallstraut",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "dev": "next src",
+    "develop": "yarn dev",
+    "build": "next build src",
+    "start": "next start src",
+    "export": "next export src",
+    "deploy": "yarn build && yarn export"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@material-ui/core": "^4.9.8",
-    "@mdx-js/loader": "^1.5.8",
-    "@next/mdx": "^9.3.2",
-    "next": "^9.3.2",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-markdown": "^4.1.0",
+    "webpack": "^4.37.0"
   },
   "devDependencies": {
-    "babel-plugin-macros": "^2.8.0",
-    "babel-plugin-preval": "^5.0.0"
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "nextjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kendallstrautman/nextjs-blog-starter"
   }
 }
