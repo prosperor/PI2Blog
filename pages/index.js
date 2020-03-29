@@ -15,6 +15,13 @@ export default function index() {
                 <h1 >
                     Ultimas Publicações
                 </h1>
+
+                <div>
+                    <p><h1>COMO FOI FAZER ESTE BLOG?</h1></p>
+                    <h2>Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa
+                        
+                    </h2>
+                </div>
                 
             </div>
 
