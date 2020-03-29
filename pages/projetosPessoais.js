@@ -7,8 +7,8 @@ export default function ProjetosPessoais() {
         <div className={styles.base}>
             <Header />
 
-            <h1>Projetos Pessoais</h1>
             <div className={styles.arecont}>
+            <h1>Projetos Pessoais</h1>
 
                 <div className={styles.box}>
                     <p className={styles.tittlePP}><font size="7" color="#708090" face="">
