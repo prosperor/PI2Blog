@@ -71,10 +71,10 @@ export default function About() {
                     <h2>HTML BÁSICO<br />
                     JAVA BÁSICO<br />
                     CSS BÁSICO<br />
-                    JAVASCRIPT BÁSICO</h2>
+                    JAVASCRIPT BÁSICO</h2> 
 
                     <h1>OBJETIVOS</h1>
-                    <h2> frase pra encher linguiça </h2>
+                    <h2> ME INTEGRAR AO MÁXIMO COM A TECNOLOGIA E IR PARA A ÁREA DE DESENVOLVIMENTO DE JOGOS </h2>
                 </div>
             </div>
 
