@@ -6,18 +6,19 @@
     <description>Recent content in posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 01:11:35 -0200</lastBuildDate>
     
 	<atom:link href="http://example.org/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tig Welding a Bike Frame</title>
+      <title>COMO FOI FAZER ESTE BLOG?</title>
       <link>http://example.org/post/tig-welding-a-bike-frame/</link>
-      <pubDate>Sun, 26 Apr 2020 01:11:35 -0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/tig-welding-a-bike-frame/</guid>
-      <description>Olá</description>
+      <description>Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva). Vamos expor algumas informações técnicas, após, resumidamente, como manipulamos o Hugo, e no fim, as opniões pessoais.
+Para esse projeto usamos Hugo e mais algumas depêndencias (um pouco mais do que gostariamos) e o versionador foi o GitHub.
+O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto mais populares e simples.</description>
     </item>
     
   </channel>

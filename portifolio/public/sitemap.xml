@@ -3,48 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/techstack/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/metal-work/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/posts/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
+    <loc>http://example.org/about/</loc>
   </url>
   
   <url>
     <loc>http://example.org/post/tig-welding-a-bike-frame/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/welding/</loc>
-    <lastmod>2020-04-26T01:11:35-02:00</lastmod>
+    <loc>http://example.org/post/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/primeiro-posts/</loc>
-    <lastmod>2016-09-26T13:19:03+07:00</lastmod>
+    <loc>http://example.org/categories/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
   </url>
   
 </urlset>
