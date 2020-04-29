@@ -2,7 +2,7 @@
   <ul class="menu__inner menu__inner--desktop">
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
-        {{ if not .HasChildren }}
+        {{ if not .HasChildren }} 
           <li><a href="{{ .URL }}" style="text-decoration:none; font-weight:bold; background: -webkit-linear-gradient(rgb(255, 104, 104), rgb(48, 19, 19)); -webkit-background-clip:text; -webkit-text-fill-color: transparent;">{{ .Name }}  </a></li>
         {{ end }}
       {{ end }}
