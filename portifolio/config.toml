@@ -41,8 +41,8 @@ paginate = 4
 [languages]
   [languages.en]
     languageName = "Portuguese"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "PORTIFÓLIO"
+    subtitle = "Uma simples apresentação"
     owner = ""
     keywords = ""
     copyright = ""
