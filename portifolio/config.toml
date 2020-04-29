@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Portifólio"
 baseurl = "/"
 theme = "hugo-theme-terminal-master"
-paginate = 5
+paginate = 4
 
 [params]
   # dir name of your blog content (default is `content/posts`)
