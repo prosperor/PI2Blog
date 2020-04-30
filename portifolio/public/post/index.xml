@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
+    <title>Posts on Portifólio</title>
     <link>http://example.org/post/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <description>Recent content in Posts on Portifólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -12,10 +12,10 @@
     
     <item>
       <title>COMO FOI FAZER ESTE BLOG?</title>
-      <link>http://example.org/post/tig-welding-a-bike-frame/</link>
+      <link>http://example.org/post/post0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/tig-welding-a-bike-frame/</guid>
+      <guid>http://example.org/post/post0/</guid>
       <description>Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva). Vamos expor algumas informações técnicas, após, resumidamente, como manipulamos o Hugo, e no fim, as opniões pessoais.
 Para esse projeto usamos Hugo e mais algumas depêndencias (um pouco mais do que gostariamos) e o versionador foi o GitHub.
 O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto mais populares e simples.</description>

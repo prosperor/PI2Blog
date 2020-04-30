@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Portifólio</title>
     <link>http://example.org/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Portifólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>COMO FOI FAZER ESTE BLOG?</title>
-      <link>http://example.org/post/tig-welding-a-bike-frame/</link>
+      <title>TECH STACK</title>
+      <link>http://example.org/techstack/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/techstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOBRE NÓS</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>SEJA BEM VINDO A NOSSA APRESENTAÇÃO  GABRIEL PRÓSPERO REALIZADOR SILVA Olá, meu nome é Gabriel Próspero Realizador Silva, tenho 18 anos de idade, moro em Cambé-PR. No momento estou cursando Engenharia de Software na UNIFIL da cidade de Londrina.
+Minha busca por conhecimento tem como objetivo ajudar as pessoas em um futuro próximo, e é claro, ter um crescimento pessoal.
+CURSOS COMPLEMENTARES  MONTAGEM E MANUTENÇÃO DE COMPUTADORES  HABILIDADES  Html Básico Java Básico CorelDRAW Básico CSS Básico  FÁBIO FERNANDES COSTA Oi, tudo bom?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/projetospessoais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/tig-welding-a-bike-frame/</guid>
+      <guid>http://example.org/projetospessoais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMO FOI FAZER ESTE BLOG?</title>
+      <link>http://example.org/post/post0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/post0/</guid>
       <description>Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva). Vamos expor algumas informações técnicas, após, resumidamente, como manipulamos o Hugo, e no fim, as opniões pessoais.
 Para esse projeto usamos Hugo e mais algumas depêndencias (um pouco mais do que gostariamos) e o versionador foi o GitHub.
 O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto mais populares e simples.</description>
