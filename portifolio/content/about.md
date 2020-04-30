@@ -10,7 +10,7 @@ author = "PRÓSPERO"
 
 ##### GABRIEL PRÓSPERO REALIZADOR SILVA 
 
-
+{{< image src="/images/prospero.jpeg" alt="Prospero" position="left" style="border-radius: 8px; width: 40%" >}}
 
 Olá, meu nome é Gabriel Próspero Realizador Silva, tenho 18 anos de idade, moro em Cambé-PR. No momento estou cursando Engenharia de Software na UNIFIL da cidade de Londrina.
 
@@ -30,7 +30,7 @@ pessoal.
 
 ##### FÁBIO FERNANDES COSTA
 
-
+{{< image src="/images/fabio.jpg" alt="Fabio" position="left" style="border-radius: 8px; width: 40%" >}}
 
 Oi, tudo bom? Meu nome é Fabio Fernandes Costa
 
