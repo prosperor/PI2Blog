@@ -24,6 +24,7 @@ paginate = 4
   # center theme with default width
   centerTheme = true
 
+
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
@@ -35,7 +36,7 @@ paginate = 4
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
+  creator = "Fabio e Próspero"
   site = ""
 
 [languages]
