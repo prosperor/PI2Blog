@@ -32,7 +32,7 @@ pessoal.
 
 {{< image src="/images/fabio.jpg" alt="Fabio" position="left" style="border-radius: 8px; width: 40%" >}}
 
-Olá, sou Fábio Fernandes Costa, tenho 19 anos de idade no momento de edição deste post (30/04/2020), moro em Londrina-PR e me encontro na metade do curso de Engenharia de Software na UNIFIL.
+Olá, sou Fábio Fernandes Costa, tenho 19 anos de idade na data deste post (30/04/2020), moro em Londrina-PR e me encontro na metade do curso de Engenharia de Software na UNIFIL.
 
 Tenho como objetivo aprender e me integrar ao maximo com a tecnologia, uma vez que a mesma é o futuro
 
