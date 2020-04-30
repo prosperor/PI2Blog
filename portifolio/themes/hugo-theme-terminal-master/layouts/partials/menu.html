@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav class="menu" style="border-color: #ff4747; border-radius: 5px; border-style:outset;">
   <ul class="menu__inner menu__inner--desktop">
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
@@ -42,10 +42,10 @@
     {{ end }}
   </ul>
 
-  <ul class="menu__inner menu__inner--mobile">
+  <ul class="menu__inner menu__inner--mobile" >
     {{ range $.Site.Menus.main }}
       {{ if not .HasChildren }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        <li><a href="{{ .URL }}" style="text-decoration:none; font-weight:bold; background: -webkit-linear-gradient(rgb(255, 132, 132), rgb(146, 0, 0)); -webkit-background-clip:text; -webkit-text-fill-color: transparent;">{{ .Name }}</a></li>
       {{ end }}
     {{ end }}
     {{ if $.Site.Params.showLanguageSelector }}
