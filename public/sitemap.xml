@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://portblog.netlify.app/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projetospessoais/</loc>
+    <loc>http://portblog.netlify.app/projetospessoais/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/techstack/</loc>
+    <loc>http://portblog.netlify.app/techstack/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://portblog.netlify.app/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://portblog.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/criacao_e_migracao/</loc>
+    <loc>http://portblog.netlify.app/post/criacao_e_migracao/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://portblog.netlify.app/post/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/posts/</loc>
+    <loc>http://portblog.netlify.app/categories/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://portblog.netlify.app/tags/</loc>
   </url>
   
 </urlset>

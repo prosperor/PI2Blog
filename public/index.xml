@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portifólio</title>
-    <link>http://example.org/</link>
+    <link>http://portblog.netlify.app/</link>
     <description>Recent content on Portifólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://portblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PROJETOS PESSOAIS</title>
-      <link>http://example.org/projetospessoais/</link>
+      <link>http://portblog.netlify.app/projetospessoais/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projetospessoais/</guid>
+      <guid>http://portblog.netlify.app/projetospessoais/</guid>
       <description>TFT Team Generator Este codigo foi feito no intuito de tornar o jogo TeamFight Tactics mais interessantes para aqueles afim de testar novas composições de campeões. Como? gerando um conjunto de combinações de origens e classes aleatórias, com ambos podendo ter suas quantidades alteradas.
 COM O QUE FOI FEITO? Todo o código foi escrito em html, javascript e CSS, com uma função princípal na qual, as outras foram baseadas.
  DESENVOLVEDOR: Fábio Fernandes Costa LINK DO REPOSITÓRIO: https://github.</description>
@@ -24,19 +24,19 @@ COM O QUE FOI FEITO? Todo o código foi escrito em html, javascript e CSS, com u
     
     <item>
       <title>TECH STACK</title>
-      <link>http://example.org/techstack/</link>
+      <link>http://portblog.netlify.app/techstack/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/techstack/</guid>
+      <guid>http://portblog.netlify.app/techstack/</guid>
       <description>Este Blog/Portfólio foi feito usando o framework Hugo, com as linguagens de HTML, CSS. As publicações e páginas são escritas em MarkDown e o tema do nosso site é o Terminal. Podemos dizer que Fábio Fernandes Costa foi o principal editor e ilustrador da aparência do blog, e Gabriel Próspero o principal responsável por desenvolver conteúdo e implantar o blog.</description>
     </item>
     
     <item>
       <title>SOBRE NÓS</title>
-      <link>http://example.org/about/</link>
+      <link>http://portblog.netlify.app/about/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://portblog.netlify.app/about/</guid>
       <description>SEJA BEM VINDO A NOSSA APRESENTAÇÃO  GABRIEL PRÓSPERO REALIZADOR SILVA Olá, meu nome é Gabriel Próspero Realizador Silva, tenho 18 anos de idade, moro em Cambé-PR. No momento estou cursando Engenharia de Software na UNIFIL da cidade de Londrina.
 Minha busca por conhecimento tem como objetivo ajudar as pessoas em um futuro próximo, e é claro, ter um crescimento pessoal.
 CURSOS COMPLEMENTARES  MONTAGEM E MANUTENÇÃO DE COMPUTADORES  HABILIDADES  Html Básico Java Básico CorelDRAW Básico CSS Básico  FÁBIO FERNANDES COSTA Olá, sou Fábio Fernandes Costa, tenho 19 anos de idade na data deste post (30/04/2020), moro em Londrina-PR e me encontro na metade do curso de Engenharia de Software na UNIFIL.</description>
@@ -44,10 +44,10 @@ CURSOS COMPLEMENTARES  MONTAGEM E MANUTENÇÃO DE COMPUTADORES  HABILIDADES  Htm
     
     <item>
       <title>COMO FOI FAZER ESTE BLOG?</title>
-      <link>http://example.org/post/criacao_e_migracao/</link>
+      <link>http://portblog.netlify.app/post/criacao_e_migracao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/criacao_e_migracao/</guid>
+      <guid>http://portblog.netlify.app/post/criacao_e_migracao/</guid>
       <description>Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva). Vamos expor algumas informações técnicas, após, resumidamente, como manipulamos o Hugo, e no fim, as opniões pessoais.
 O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto mais populares e simples. Com sua incrível velocidade e flexibilidade, Hugo torna a construção de sites mais simples e fácil.</description>
     </item>
