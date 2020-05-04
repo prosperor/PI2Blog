@@ -1,19 +1,19 @@
-<nav class="menu" style="border-color: #cf3535; border-radius: 5px;">
+<nav class="menu">
   <ul class="menu__inner menu__inner--desktop">
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
-        {{ if not .HasChildren }} 
-          <li><a href="{{ .URL }}" style="text-decoration:none; font-weight:bold; background: -webkit-linear-gradient(rgb(255, 132, 132), rgb(146, 0, 0)); -webkit-background-clip:text; -webkit-text-fill-color: transparent;">{{ .Name }}  </a></li>
+        {{ if not .HasChildren }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       {{ end }}
       {{ if gt (len $.Site.Menus.main) $.Site.Params.showMenuItems }}
-        <ul class="menu__sub-inner"> 
+        <ul class="menu__sub-inner">
           <li class="menu__sub-inner-more-trigger">{{ $.Site.Params.MenuMore }} ▾</li>
 
           <ul class="menu__sub-inner-more hidden">
             {{ range last (sub (len $.Site.Menus.main) $.Site.Params.showMenuItems) $.Site.Menus.main }}
               {{ if not .HasChildren }}
-                <li><a href="{{ .URL }}">{{ .Name }}</a ></li>
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
             {{ end }}
           </ul>
@@ -22,7 +22,7 @@
     {{ else }}
       {{ range $.Site.Menus.main }}
         {{ if not .HasChildren }}
-          <li><a href="{{ .URL }}" >{{ .Name }}</a></li>
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       {{ end }}
     {{ end }}
@@ -42,10 +42,10 @@
     {{ end }}
   </ul>
 
-  <ul class="menu__inner menu__inner--mobile" >
+  <ul class="menu__inner menu__inner--mobile">
     {{ range $.Site.Menus.main }}
       {{ if not .HasChildren }}
-        <li><a href="{{ .URL }}" style="text-decoration:none; font-weight:bold; background: -webkit-linear-gradient(rgb(255, 132, 132), rgb(146, 0, 0)); -webkit-background-clip:text; -webkit-text-fill-color: transparent;">{{ .Name }}</a></li>
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     {{ end }}
     {{ if $.Site.Params.showLanguageSelector }}

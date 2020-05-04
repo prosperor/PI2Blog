@@ -2,8 +2,12 @@ baseURL = "http://portblog.netlify.app"
 languageCode = "en-us"
 title = "Portifólio"
 baseurl = "/"
-theme = "tema-terminal"
+theme = "terminal"
 paginate = 4
+
+[deployment]
+
+
 
 [params]
   # dir name of your blog content (default is `content/posts`)
