@@ -1,24 +1,26 @@
 # Terminal
 
-![Terminal](https://github.com/panr/hugo-theme-terminal/blob/master/images/screenshot.png?raw=true)
+![Terminal](https://github.com/panr/terminal/blob/master/images/screenshot.png?raw=true)
 
 ### DEMO - https://hugo-terminal.now.sh/
 
 ---
 
-- [Features](#features)
-- [Built-in shortcodes](#built-in-shortcodes)
-- [Code highlighting](#code-highlighting)
-- [How to start](#how-to-start)
-- [How to configure](#how-to-configure)
-- [Post archetype](#post-archetype)
-- [Add-ons](#add-ons)
-- [How to run your site](#how-to-run-your-site)
-- [How to edit the theme](#how-to-edit-the-theme)
-- [How to contribute](#how-to-contribute)
-- [Terminal theme user?](#terminal-theme-user)
-- [Sponsoring](#sponsoring)
-- [Licence](#licence)
+- [Terminal](#terminal)
+    - [DEMO - https://hugo-terminal.now.sh/](#demo---httpshugo-terminalnowsh)
+  - [Features](#features)
+      - [Built-in shortcodes](#built-in-shortcodes)
+      - [Code highlighting](#code-highlighting)
+  - [How to start](#how-to-start)
+  - [How to configure](#how-to-configure)
+  - [Post archetype](#post-archetype)
+  - [Add-ons](#add-ons)
+  - [How to run your site](#how-to-run-your-site)
+  - [How to edit the theme](#how-to-edit-the-theme)
+  - [How to contribute](#how-to-contribute)
+  - [Terminal theme user?](#terminal-theme-user)
+  - [Sponsoring](#sponsoring)
+  - [License](#license)
 
 ## Features
 

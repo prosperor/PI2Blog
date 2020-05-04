@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Portifólio"
 baseurl = "/"
-theme = "hugo-theme-terminal-master"
+theme = "tema-terminal"
 paginate = 5
 
 [params]

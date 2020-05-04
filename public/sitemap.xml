@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/projetospessoais/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/techstack/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -18,16 +23,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/projetospessoais/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/post0/</loc>
+    <loc>http://example.org/post/criacao_e_migracao/</loc>
   </url>
   
   <url>
