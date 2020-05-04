@@ -11,7 +11,7 @@ paginate = 4
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
+  contentTypeName = "content/"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "red"
