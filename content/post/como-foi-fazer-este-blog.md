@@ -1,24 +1,12 @@
 +++
 categories = ["posts"]
-date = 2020-04-26T03:11:35Z
+date = 2020-05-04T03:11:35Z
 draft = true
-title = "COMO FOI FAZER ESTE BLOG?"
+title = "ENFIM, EM UM SERVIDOR."
 
 +++
-Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa
-e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva).
-Vamos expor algumas informações técnicas, após, resumidamente, como manipulamos o Hugo, e no fim, as opniões pessoais.
+O processo de colocar o site na rede foi complicado. Inicialmente com a escolha de serviço de Web Hosting, passamos dias pesquisando diferentes serviços, assim como testando-os, Até enfim encontrar algum em que nos sentimos confortalecíveis com os uso, assim como capazes de entender o processo para se colocar no ar.
 
-O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto mais populares e simples. Com sua incrível velocidade e flexibilidade, Hugo torna a construção de sites mais simples e fácil.
+Como qualquer um que tenha vontade de evitar custos, demos prioridade a serviços gratuitos, e claro, encontramos e testamos alguns, mas, por fim, escolhemos o  [netlify](https://www.netlify.com/ "netlify home page") que além de gratuito mostrou-se mais fácil comparado aos outros.
 
-Originalmente nosso projeto tinha como objetivo rodar em Next.js, mas devido à algumas imprevisões tivemos que mudar para Hugo. Nosso projeto é simples e está em desenvolvimento. Na parte de desenvolvedor temos 5 pastas, e um arquivo.toml:
-
-* **ARQUETYPES:** Responsável por criar escopos/modelos de cabeçalho de publicações.
-* **CONTENT:**Aqui ficam armazenados os markdown\`s que nosso Framework processa e exibe.
-* **PUBLIC:** Essa pasta possui as configurações da estrutura do HTML que está renderizando os markdown\`s, bem como suas configurações de CSS e outros.
-* **STATIC:** Os arquivos daqui serão compliados no site final, assim, existe a possbilidade de criar JS, CSS ou imagem.
-* quaisquer arquivos estáticos aqui serão compilados no site final, assim, liberdade total para criar qualquer CSS, JS ou imagem por exemplo.
-* **THEMES:** Como o próprio nome diz, essa pasta é destinada ao armazenamento de temas, tais quais podemos usar no HUGO.
-* **CONFIG.TOML:** Aqui residem as informações de costrução da nossa página, como parâmetros do tema, cabeçalhos e etc. Funciona como uma espécie de painel de controle geral.
-
-Tivemos, obviamente, um pouco de dificuldade no inicio, mas com o tempo nos adaptamos e conseguimos criar o código e configurar nosso site, migrando todas as informações do repositório antigo para este.
+Mesmo após ter o servidor decidido ainda houve um trabalho árduo para concluir essa fase do projeto, trabalho esse que mesmo com varias horas de duração, mostrou-se um sucesso.
