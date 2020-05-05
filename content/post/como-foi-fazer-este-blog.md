@@ -1,7 +1,6 @@
 +++
 categories = ["posts"]
 date = 2020-05-04T03:11:35Z
-draft = true
 title = "ENFIM, EM UM SERVIDOR."
 
 +++
