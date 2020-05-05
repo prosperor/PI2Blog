@@ -1,6 +1,6 @@
 ---
 title: COMO FOI FAZER ESTE BLOG?
-date: 2020-04-26 T01:11:35-02:00
+date: 2020-04-26T00:11:35-03:00
 categories:
 - posts
 
