@@ -31,6 +31,7 @@
  HUGO_ENABLEGITINFO = "true"
 
  [[redirects]]
-  from = "https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/post/como-foi-fazer-este-blog/"
+  from = "/post/como-foi-fazer-este-blog/"
   to = "https://portblog.netlify.app/post/como-foi-fazer-este-blog/"
-  
+  status = 200
+  force = true
