@@ -30,9 +30,3 @@
 [context.next.environment]
  HUGO_ENABLEGITINFO = "true"
 
- [[redirects]]
-  from = "/post/como-foi-fazer-este-blog/"
-  to = "https://portblog.netlify.app/post/como-foi-fazer-este-blog/"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
