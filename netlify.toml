@@ -30,3 +30,8 @@
 [context.next.environment]
  HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "https://portblog.netlify.app/*"
+  to = "https://www.olámundo/:splat"
+  status = 301
+  force = true 
