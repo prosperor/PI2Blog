@@ -3,43 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://portblog.netlify.app/</loc>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/</loc>
+    <lastmod>2020-05-04T03:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/post/como-foi-fazer-este-blog/</loc>
+    <lastmod>2020-05-04T03:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/post/</loc>
+    <lastmod>2020-05-04T03:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/posts/</loc>
+    <lastmod>2020-05-04T03:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://portblog.netlify.app/projetospessoais/</loc>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/projetospessoais/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://portblog.netlify.app/techstack/</loc>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/techstack/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://portblog.netlify.app/about/</loc>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/post/criacao_e_migracao/</loc>
+    <lastmod>2020-04-26T00:11:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://portblog.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://portblog.netlify.app/post/criacao_e_migracao/</loc>
-  </url>
-  
-  <url>
-    <loc>http://portblog.netlify.app/post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://portblog.netlify.app/categories/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>http://portblog.netlify.app/tags/</loc>
+    <loc>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/tags/</loc>
   </url>
   
 </urlset>

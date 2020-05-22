@@ -2,20 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Portifólio</title>
-    <link>http://portblog.netlify.app/categories/</link>
+    <link>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/</link>
     <description>Recent content in Categories on Portifólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 03:11:35 +0000</lastBuildDate>
     
-	<atom:link href="http://portblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>posts</title>
-      <link>http://portblog.netlify.app/categories/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/posts/</link>
+      <pubDate>Mon, 04 May 2020 03:11:35 +0000</pubDate>
       
-      <guid>http://portblog.netlify.app/categories/posts/</guid>
+      <guid>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/categories/posts/</guid>
       <description></description>
     </item>
     

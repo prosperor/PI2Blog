@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portifólio</title>
-    <link>http://portblog.netlify.app/tags/</link>
+    <link>https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/tags/</link>
     <description>Recent content in Tags on Portifólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://portblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
