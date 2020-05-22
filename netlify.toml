@@ -31,7 +31,7 @@
  HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/*"
-  to = "portblog.netlify.app/"
-  status = 301
-  force = true 
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect 
