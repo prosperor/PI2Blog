@@ -4,6 +4,7 @@ title = "Portifólio"
 baseurl = "/"
 theme = "terminal"
 paginate = 6
+disqusShortname = "PortBlog"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
