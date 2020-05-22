@@ -31,7 +31,7 @@
  HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://portblog.netlify.app/*"
-  to = "https://www.olámundo/:splat"
+  from = "https://5eb0949ae59d9c0006ffb2cb--portblog.netlify.app/*"
+  to = "portblog.netlify.app/*"
   status = 301
   force = true 
