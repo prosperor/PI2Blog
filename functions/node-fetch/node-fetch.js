@@ -1,8 +1,9 @@
 /* eslint-disable */
 const fetch = require('node-fetch')
+
 exports.handler = async function(event, context) {
   try {
-    const response = await fetch('https://icanhazdadjoke.com', {
+    const response = await fetch('/.netlify/functions/node-fetch', {
       headers: { Accept: 'application/json' }
     })
     if (!response.ok) {
