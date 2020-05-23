@@ -1,7 +1,7 @@
 [build]
  publish = "public"
  command = "hugo --gc --minify"
-
+ functions = "functions"
 
 [context.production.environment]
  HUGO_VERSION = "0.69.0"
@@ -29,9 +29,3 @@
 
 [context.next.environment]
  HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-  from = 404
-  to = "https://portblog.netlify.app/index.html"
-  status = 302
-  force = true # COMMENT: ensure that we always redirect 
