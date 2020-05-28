@@ -69,3 +69,7 @@ disqusShortname = "PortBlog"
         identifier = "projetosPessoais"
         name = "PROJETOS PESSOAIS"
         url = "/projetosPessoais"
+      [[languages.en.menu.main]]
+        identifier = "linkGit"
+        name = "GIT HUB"
+        url = "https://github.com/prosperor/PI2Blog"
