@@ -1,6 +1,6 @@
 baseURL = "https://portblog.netlify.app/"
 languageCode = "en-us"
-title = "Portifólio"
+title = "PortBlog"
 baseurl = "/"
 theme = "terminal"
 paginate = 6
@@ -43,7 +43,7 @@ disqusShortname = "PortBlog"
 [languages]
   [languages.en]
     languageName = "Portuguese"
-    title = "Portifólio"
+    title = "PortBlog"
     subtitle = "Simples e descomplicado"
     owner = ""
     keywords = ""
