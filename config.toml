@@ -1,4 +1,4 @@
-baseURL = "https://portblog.netlify.app/"
+baseURL = "https://portblog.xyz"
 languageCode = "en-us"
 title = "PortBlog"
 baseurl = "/"
@@ -53,7 +53,7 @@ disqusShortname = "PortBlog"
     readOtherPosts = "Outras Publicações"
 
     [languages.en.params.logo]
-      logoText = "PORTIFÓLIO"
+      logoText = "PORTBLOG"
       logoHomeLink = "/"
 
     [languages.en.menu]
