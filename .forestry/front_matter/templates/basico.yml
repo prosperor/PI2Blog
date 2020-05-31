@@ -2,12 +2,12 @@
 label: Básico
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
   label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
