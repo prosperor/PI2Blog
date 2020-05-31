@@ -1,75 +1,46 @@
 baseURL = "https://portblog.xyz"
-languageCode = "en-us"
-title = "PortBlog"
 baseurl = "/"
-theme = "terminal"
-paginate = 6
 disqusShortname = "PortBlog"
-
+languageCode = "en-us"
+paginate = 6
+theme = "terminal"
+title = "PortBlog"
+[languages.en]
+copyright = ""
+keywords = ""
+languageName = "Portuguese"
+menuMore = "Veja Mais"
+owner = ""
+readMore = "Leia mais"
+readOtherPosts = "Outras Publicações"
+subtitle = "Simples e descomplicado"
+title = "PortBlog"
+[[languages.en.menu.main]]
+identifier = "about"
+name = "SOBRE NÓS"
+url = "/about"
+[[languages.en.menu.main]]
+identifier = "techStack"
+name = "TECH STACK"
+url = "/techStack"
+[[languages.en.menu.main]]
+identifier = "projetosPessoais"
+name = "PROJETOS PESSOAIS"
+url = "/projetosPessoais"
+[[languages.en.menu.main]]
+identifier = "linkGit"
+name = "GIT-HUB"
+url = "https://github.com/prosperor/PI2Blog"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "PORTBLOG"
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
-
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "red"
-
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
-
-  # show selector to switch language
-  showLanguageSelector = false
-
-  # set theme to full screen width
-  fullWidthTheme = false
-
-  # center theme with default width
-  centerTheme = true
-
-
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
-
+centerTheme = true
+contentTypeName = "post"
+fullWidthTheme = false
+showLanguageSelector = false
+showMenuItems = 4
+themeColor = "red"
 [params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = "Fabio e Próspero"
-  site = ""
-
-[languages]
-  [languages.en]
-    languageName = "Portuguese"
-    title = "PortBlog"
-    subtitle = "Simples e descomplicado"
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Veja Mais"
-    readMore = "Leia mais"
-    readOtherPosts = "Outras Publicações"
-
-    [languages.en.params.logo]
-      logoText = "PORTBLOG"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "SOBRE NÓS"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "techStack"
-        name = "TECH STACK"
-        url = "/techStack"
-      [[languages.en.menu.main]]
-        identifier = "projetosPessoais"
-        name = "PROJETOS PESSOAIS"
-        url = "/projetosPessoais"
-      [[languages.en.menu.main]]
-        identifier = "linkGit"
-        name = "GIT-HUB"
-        url = "https://github.com/prosperor/PI2Blog"
+creator = "Fabio e Próspero"
+site = ""
