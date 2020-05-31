@@ -2,7 +2,6 @@
 categories = []
 date = 2020-05-04T03:11:35Z
 title = "ENFIM, EM UM SERVIDOR."
-
 +++
 O processo de colocar o site na rede foi complicado. Inicialmente com a escolha de serviço de Web Hosting, passamos dias pesquisando diferentes serviços, assim como testando-os, Até enfim encontrar algum em que nos sentimos confortalecíveis com os uso, assim como capazes de entender o processo para se colocar no ar.
 
