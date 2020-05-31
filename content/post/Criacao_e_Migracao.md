@@ -14,7 +14,7 @@ O Hugo, atualmente, é um dos geradores de sites estáticos de código aberto ma
 Originalmente nosso projeto tinha como objetivo rodar em Next.js, mas devido à algumas imprevisões tivemos que mudar para Hugo. Nosso projeto é simples e está em desenvolvimento. Na parte de desenvolvedor temos 5 pastas, e um arquivo.toml:
 
 * **ARQUETYPES:** Responsável por criar escopos/modelos de cabeçalho de publicações.
-* **CONTENT:**Aqui ficam armazenados os markdown\`s que nosso Framework processa e exibe.
+* **CONTENT:** Aqui ficam armazenados os markdown\`s que nosso Framework processa e exibe.
 * **PUBLIC:** Essa pasta possui as configurações da estrutura do HTML que está renderizando os markdown\`s, bem como suas configurações de CSS e outros.
 * **STATIC:** Os arquivos daqui serão compliados no site final, assim, existe a possbilidade de criar JS, CSS ou imagem.
 * quaisquer arquivos estáticos aqui serão compilados no site final, assim, liberdade total para criar qualquer CSS, JS ou imagem por exemplo.
