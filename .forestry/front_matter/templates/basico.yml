@@ -12,16 +12,5 @@ fields:
 - type: list
   name: categories
   label: categories
-- name: publicacao
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Publicação
-  description: teste
-  hidden: false
 pages:
 - content/post/inclusao-no-servidor.md
