@@ -1,8 +1,8 @@
 ---
 title: COMO FOI FAZER ESTE BLOG?
-date: 2020-04-26T00:11:35-03:00
+date: 2020-04-26T03:11:35.000+00:00
 categories:
-- posts
+- FAZENDO_O_BLOG
 
 ---
 Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa
