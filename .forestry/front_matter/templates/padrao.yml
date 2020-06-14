@@ -11,5 +11,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- content/post/post-teste.md
