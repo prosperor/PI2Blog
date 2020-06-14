@@ -1,6 +1,6 @@
 +++
 categories = []
-date = 2020-06-24T03:00:00Z
+date = 2020-06-01T03:00:00Z
 title = "Post Teste"
 
 +++
