@@ -8,4 +8,4 @@ O processo de colocar o site na rede foi complicado. Inicialmente com a escolha 
 
 Como qualquer um que tenha vontade de evitar custos, demos prioridade a serviços gratuitos, e claro, encontramos e testamos alguns, mas, por fim, escolhemos o [netlify](https://www.netlify.com/ "netlify home page") que além de gratuito mostrou-se mais fácil comparado aos outros.
 
-Mesmo após ter o servidor decidido ainda houve um trabalho árduo para concluir essa fase do projeto, trabalho esse que mesmo com varias horas de duração, mostrou-se um sucesso
+Mesmo após ter o servidor decidido ainda houve um trabalho árduo para concluir essa fase do projeto, trabalho esse que mesmo com varias horas de duração, mostrou-se um sucesso.
