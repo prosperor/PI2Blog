@@ -1,7 +1,7 @@
 +++
 categories = ["SERVIDOR"]
 date = 2020-05-31T00:39:00Z
-title = "REGISTRO DE DOMÍNIO."
+title = "REGISTRO DE DOMÍNIO"
 
 +++
 Para registrar o domínio esse site usamos o [Goddady](https://br.godaddy.com/). O processo foi mais simples do que aparenta ser. Primeiro compramos o domínio, depois foi preciso inserir as configurações do Servidor de Nomes do [Netlify](https://www.netlify.com/) no meu domínio e registrar os DSN´s. 
