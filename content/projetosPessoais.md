@@ -13,9 +13,11 @@ author = "PRÓSPERO"
 
 
 Esse programa foi feito com o objetivo de exibir 3 maneiras diferentes de ordenação, são eles:
+
 - bubble Sort
 - insert Sort
 - select Sort
+
 Métodos simples porém inviáveis quando aplicados em uma larga escala de dados computacionais, devido a grande demanda de memória e recursos do computador para executa-los.
 
 ### COM O QUE FOI FEITO?
