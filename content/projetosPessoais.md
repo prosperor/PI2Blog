@@ -8,9 +8,15 @@ author = "PRÓSPERO"
 
 ## Card Sorter
 
+
 {{< image src="/images/Greenfoot.png" alt="Greenfoot" position="center" style="border-radius: 8px; width: 100%" >}}
 
-Esse programa foi feito no intuito de exibir 3 maneiras diferentes de ordenação. O bubbleSort, insertSort e selectSort, são métodos simples porém inviáveis quando aplicados em uma larga escala de dados computacionais, devido a grande demanda de memória e recursos do computador.
+
+Esse programa foi feito com o objetivo de exibir 3 maneiras diferentes de ordenação, são eles:
+- bubble Sort
+- insert Sort
+- select Sort
+Métodos simples porém inviáveis quando aplicados em uma larga escala de dados computacionais, devido a grande demanda de memória e recursos do computador para executa-los.
 
 ### COM O QUE FOI FEITO?
 
