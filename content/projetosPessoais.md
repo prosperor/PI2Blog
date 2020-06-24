@@ -27,7 +27,6 @@ A linguagem utilizada foi Java, quanto a engine, optei pelo uso do Greenfoot, um
 - **LINK DO ORDENADOR:** [Card Sorter](https://www.greenfoot.org/scenarios/26217)
 - **LINK PARA BAIXAR A FERRAMENTA:** [Greenfoot](https://www.greenfoot.org/download)
 - **PROJETO:** [Download](https://bmc.xyz/l/uIyJHETzv)
-- **AJUDE COM UM CAFÉ:** [CAFÉZITO](https://www.buymeacoffee.com/prospero)
 
 # Fábio
 
