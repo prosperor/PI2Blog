@@ -24,9 +24,10 @@ Métodos simples porém inviáveis quando aplicados em uma larga escala de dados
 
 A linguagem utilizada foi Java, quanto a engine, optei pelo uso do Greenfoot, uma ferramenta bacana e muito intuitiva.
 
-- **LINK DO ORDENADOR:** [Card Sorter](https://www.greenfoot.org/scenarios/26217){:target="_blank"}
-- **LINK PARA BAIXAR A FERRAMENTA:** [Greenfoot](https://www.greenfoot.org/download){:target="_blank"}
-- **PROJETO:** [Download](https://drive.google.com/file/d/1ZxaDHQ0KDWXaJF3qY5Y8lcUK6x2B7lLT/view?usp=sharing){:target="_blank"}
+- **LINK DO ORDENADOR:** [Card Sorter](https://www.greenfoot.org/scenarios/26217)
+- **LINK PARA BAIXAR A FERRAMENTA:** [Greenfoot](https://www.greenfoot.org/download)
+- **PROJETO:** [Download](https://drive.google.com/file/d/1ZxaDHQ0KDWXaJF3qY5Y8lcUK6x2B7lLT/view?usp=sharing)
+- **AJUDE COM UM CAFÉ:** [CAFÉZITO](https://www.buymeacoffee.com/prospero)
 
 # Fábio
 
