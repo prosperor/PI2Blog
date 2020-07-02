@@ -1,8 +1,7 @@
 ---
 title: COMO FOI FAZER ESTE BLOG?
 date: 2020-04-26T03:11:35.000+00:00
-categories:
-- FAZENDO_O_BLOG
+categories: []
 ---
 Primeiro precisamos falar que este blog não foi feito por apenas uma pessoa
 e sim por duas (Fabio Fernandes Costa e Gabriel Próspero Realizador Silva).
