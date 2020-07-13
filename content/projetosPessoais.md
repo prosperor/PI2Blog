@@ -12,7 +12,7 @@ author = "PRÓSPERO"
 {{< image src="/images/Greenfoot.png" alt="Greenfoot" position="center" style="border-radius: 8px; width: 100%" >}}
 
 
-Esse programa foi feito com o objetivo de exibir 3 maneiras diferentes de ordenação, são eles:
+Esse programa foi feito com o objetivo de exibir 3 maneiras diferentes de ordenação, são elas:
 
 - bubble Sort
 - insert Sort
